@@ -1,0 +1,2 @@
+Matriks digunakan untuk menggabungkan vektor dari jenis yang sama, yang dapat berupa numerik, karakter, atau logis. Matriks digunakan untuk menyimpan tabel data dalam R. Baris-baris matriks umumnya merupakan pengamatan individu dan kolom-kolomnya adalah variabel.
+Array adalah tipe data terstruktur yang berguna untuk menyimpan sejumlah data yang bertipe sama. Biasanya array berupa sebuah struktur data yang terdiri atas banyak variabel dengan tipe data sama, di mana masing-masing elemen variabel memiliki nilai indeks.
